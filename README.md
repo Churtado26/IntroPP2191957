@@ -21,7 +21,7 @@ Para correr el ejecutable anteriormente creado se corre el siguiente comando:
 
     ./mulma
 
-Con esto podemos ver el resultado de la ejecucion de el codigo de multiplicacion de matrices.
+Con esto se puede ver el resultado de la ejecucion de el codigo de multiplicacion de matrices.
 El proceso de ejecución del código paralelizado es el mismo, simplemente es cambiar el nombre del archivo por "omp_ulma"
 
-Si se desea altera el tamaño de las matrices, se debe modificar en el codigo en el editor de texto vim
+Para el inciso de alterar el tamaño de las matrices, se debe modificar en el codigo en el editor de texto vim
